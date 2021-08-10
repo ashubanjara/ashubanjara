@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashubanjara
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me ashutosh.banjara@mail.utoronto.ca
 
