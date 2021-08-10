@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashubanjara
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React
-- 📫 How to reach me ashutosh.banjara@mail.utoronto.ca
+- 📫 How to reach me banjaraashutosh@gmail.com
 
 <!---
 ashubanjara/ashubanjara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
