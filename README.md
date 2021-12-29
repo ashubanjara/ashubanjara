@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashubanjara
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning nodeJS
 - 📫 How to reach me banjaraashutosh@gmail.com
 
 <!---
