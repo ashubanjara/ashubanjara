@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashubanjara
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Express.js
+- 🌱 I’m currently learning Server Side Development
 - 📫 How to reach me banjaraashutosh@gmail.com
 
 <!---
